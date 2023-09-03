@@ -1,0 +1,18 @@
+body{
+    background-color: cornflowerblue;
+}
+
+#score{
+    font-size: medium;
+    margin-left: 10px;
+}
+
+#timer{
+    font-size: medium;
+    float: right;
+    margin-right: 10px;
+}
+
+#sketchexpect{
+    color: floralwhite;
+}
